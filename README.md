@@ -1,3 +1,4 @@
+# Atividade realizada para transformar critérios de aceitação em Gherkin
 
 ![image](https://github.com/user-attachments/assets/5f91bba2-933d-4395-b6a2-133653aeef1e)
 
